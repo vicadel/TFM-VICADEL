@@ -6,7 +6,7 @@ This repository contains the complete development of the **Master's Thesis (TFM)
 
 > **Design, Fabrication, and Optimization of a 3D-Printed Myoelectric Prosthesis Controlled by EMG Signals with BITalino Sensorization**
 
-Authored by **Víctor Alonso del Moral** for the **Master's Degree in Electronic Engineering** at the **Universidad Católica de Valencia (UCV)**.
+Authored by **Víctor Alonso del Moral** for the **Master's Degree in Electronic Engineering** at the **Universidad de Valencia (UV)**.
 
 The project involves the design, manufacturing, and experimental validation of a robotic upper-limb prosthesis controlled via electromyographic (EMG) signals using the **BITalino kit** and an **ESP32** microcontroller. 
 The system integrates wireless communication, computer vision control through **OpenCV**, and is optimized for 3D printing in **PETG** material.
@@ -92,7 +92,6 @@ See the `LICENSE` file for more details.
 
 ## 🙌 Acknowledgements
 
-- Special thanks to **Vicent Girbés Juan** and **Irene Del Canto Serrano** for their technical and academic guidance.
 - Thanks to the Open Source community for providing essential tools.
 - Personal thanks to my family and friends for their constant support.
 
