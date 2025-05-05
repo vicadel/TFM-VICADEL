@@ -9,7 +9,7 @@ This repository contains the complete development of the **Master's Thesis (TFM)
 Authored by **Víctor Alonso del Moral** for the **Master's Degree in Electronic Engineering** at the **Universidad de Valencia (UV)**.
 
 The project involves the design, manufacturing, and experimental validation of a robotic upper-limb prosthesis controlled via electromyographic (EMG) signals using the **BITalino kit** and an **ESP32** microcontroller. 
-The system integrates wireless communication, computer vision control through **OpenCV**, and is optimized for 3D printing in **PETG** material.
+The system integrates computer vision control through **OpenCV**, and is optimized for 3D printing in **PETG** material.
 
 ---
 
